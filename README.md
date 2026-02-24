@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50"/>     
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="50"/>
+   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" />
 </div>
 
@@ -55,15 +56,7 @@
 
 <br/><br/>
 
-<h2 align="center">☁️ Cloud, CMS & Backend Services</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"  height="50" alt="Firebase" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sanity.svg" height="50" alt="Sanity CMS" />
-</div>
-
-<br/><br/>
 
 <h2 align="center">🧠 Data Science, Machine Learning & AI</h2>
 
