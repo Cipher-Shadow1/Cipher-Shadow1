@@ -200,10 +200,6 @@ Interactive analytics dashboard visualizing real datasets with dynamic charts, f
 ---
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmoun-Rayan-abderrahim&theme=radical&hide_border=true&background=0d1117&ring=e6517d&fire=e6517d&currStreakLabel=e6517d" />
-</div>
-
 <br/><br/>
 
 ---
