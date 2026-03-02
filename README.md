@@ -199,16 +199,6 @@ Interactive analytics dashboard visualizing real datasets with dynamic charts, f
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmoun-Rayan-abderrahim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e6517d&icon_color=e6517d&text_color=ffffff" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmoun-Rayan-abderrahim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e6517d&text_color=ffffff" height="165" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmoun-Rayan-abderrahim&theme=radical&hide_border=true&background=0d1117&ring=e6517d&fire=e6517d&currStreakLabel=e6517d" />
@@ -221,7 +211,7 @@ Interactive analytics dashboard visualizing real datasets with dynamic charts, f
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://your-portfolio.vercel.app" target="_blank">
+  <a href="https://rahmoun-rayan-abderrahim.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&color=E6517D&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   &nbsp;
