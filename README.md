@@ -1,7 +1,7 @@
 
 <!-- 🌐 Visitor Badge -->
 <div align="center">
- <img src="[https://visitor-badge.laobi.icu/badge?page_id=Rahmoun-Rayan-abderrahim.Rahmoun-Rayan-abderrahim](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahmoun%20Abderrahim&desc=Data%20Scientist%20I%20Machine%20Learning%20Engineer%20I%20Al%20Developer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahmoun%20Rayan%20Abderrahim&desc=Data%20Scientist%20I%20Machine%20Learning%20Engineer%20I%20Al%20Developer&fontAlign=50&animation=fadeIn&fontSize=60&textBg=false&descAlignY=54&fontAlignY=37" />
 </div>
 
 <br/>
