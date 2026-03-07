@@ -1,13 +1,7 @@
-<!-- 🔥 Banner -->
-<div align="center">
-  <img src="./pics/head.gif" width="100%" alt="Intro Banner GIF" />
-</div>
-
-<br/>
 
 <!-- 🌐 Visitor Badge -->
 <div align="center">
- [ <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahmoun-Rayan-abderrahim.Rahmoun-Rayan-abderrahim" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahmoun%20Abderrahim&desc=Data%20Scientist%20I%20Machine%20Learning%20Engineer%20I%20Al%20Developer)
+ <img src="[https://visitor-badge.laobi.icu/badge?page_id=Rahmoun-Rayan-abderrahim.Rahmoun-Rayan-abderrahim](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahmoun%20Abderrahim&desc=Data%20Scientist%20I%20Machine%20Learning%20Engineer%20I%20Al%20Developer" />
 </div>
 
 <br/>
