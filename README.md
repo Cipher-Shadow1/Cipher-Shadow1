@@ -1,19 +1,11 @@
 
 <!-- 🌐 Visitor Badge -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahmoun%20Rayan%20Abderrahim&desc=Data%20Scientist%20I%20Machine%20Learning%20Engineer%20I%20Al%20Developer&fontAlign=50&animation=fadeIn&fontSize=60&textBg=false&descAlignY=54&fontAlignY=37" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there%20%F0%9F%91%8B,%20I%27m%20Rahmoun%20Rayan%20Abderrahime&desc=%F0%9F%9A%80%20Computer%20Science%20Student%20from%20Boumerdes,%20Algeria%0A%20&fontAlign=50&animation=fadeIn&rotate=0&fontSize=37&textBg=false&descAlignY=54&fontAlignY=37" />
 </div>
 
 <br/>
 
-<!-- 👋 Intro -->
-<h1 align="center">
-  Hey there 👋, I'm <span style="color:#e6517d">Rahmoun Rayan Abderrahime</span>
-</h1>
-
-<h3 align="center">
-  🚀 Computer Science Student from Boumerdes, Algeria
-</h3>
 
 <p align="center">
   🎓 Computer Science Undergraduate &nbsp;|&nbsp; 🧠 Data & AI Oriented <br/>
