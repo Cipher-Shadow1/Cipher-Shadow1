@@ -29,21 +29,21 @@
 ### 🤖 AI & Machine Learning
 
 **🧠 SADOP — AI Database Optimization Platform**  
-Hybrid AI system combining Machine Learning (98.45% accuracy), Reinforcement Learning (PPO agent), and LLMs (Llama 3 via Groq) to automate SQL optimization and index recommendations. Features intelligent routing, query performance prediction, and natural language SQL generation with a full FastAPI backend and Next.js interface.  
+Hybrid AI system combining ML (98.45%), RL (PPO), and LLMs (Llama 3) for SQL optimization, index recommendations, and query performance prediction.  
 🔗 <a href="https://github.com/Cipher-Shadow1/sadop">View Project</a>  
-`Python` `FastAPI` `XGBoost` `Stable-Baselines3` `Gymnasium` `MySQL` `Groq API` `Next.js`
+`Python` `FastAPI` `XGBoost` `RL` `MySQL` `Next.js`
 
 ---
 
 **🧬 Kidney Disease Detection (CNN)**  
-Deep learning web application for classifying kidney CT scan images into 4 categories (Cyst, Normal, Stone, Tumor) using a custom CNN trained on 12,446 images. Achieved 100% test accuracy with real-time inference via Streamlit interface and probability-based predictions.  
+Deep learning web app classifying kidney CT scans into 4 classes using a custom CNN trained on 12K+ images with real-time inference.  
 🔗 <a href="https://github.com/Cipher-Shadow1/Kidney-disease-detection">View Project</a>  
-`Python` `TensorFlow` `Keras` `Streamlit` `NumPy` `Pillow`
+`Python` `TensorFlow` `Keras` `Streamlit`
 
 ---
 
 **🔍 NLP Sentiment Analyzer**  
-Fine-tuned transformer model for Arabic & English sentiment classification. Deployed as a REST API and tested on real social media data.  
+Fine-tuned transformer for Arabic & English sentiment classification deployed as a REST API.  
 `Python` `HuggingFace` `PyTorch` `FastAPI`
 
 </td>
@@ -52,28 +52,26 @@ Fine-tuned transformer model for Arabic & English sentiment classification. Depl
 ### 🌐 Full Stack Projects
 
 **⚡ Nodus — AI Agent Workflow Platform**  
-Visual platform to design and manage AI-driven agent workflows with drag-and-drop builder, integrations (Slack, Notion, GitHub), and simulation sandbox. Built as a scalable SaaS with modern UI/UX and multi-page architecture.  
+Visual SaaS platform for building AI-driven workflows with drag-and-drop builder, integrations, and simulation sandbox.  
 🌐 <a href="https://ar-nodus.vercel.app/">Live Demo</a>  
-`Next.js` `React` `TailwindCSS` `Framer Motion` `MDX`
+`Next.js` `React` `TailwindCSS` `Framer Motion`
 
 ---
 
-
 **🛒 YouShop — Modern E-Commerce Platform**  
-Feature-rich e-commerce app with product management, cart, wishlist, authentication, and multi-payment integration (Stripe, Clerk, COD). Built with scalable architecture, CMS integration, and real-time user experience.  
+Full-featured e-commerce app with product management, cart, auth, and Stripe/Clerk payments using scalable architecture.  
 🔗 <a href="https://github.com/Cipher-Shadow1/youshop">View Project</a>  
-`Next.js` `TypeScript` `Sanity CMS` `Clerk` `Stripe` `Firebase`
+`Next.js` `TypeScript` `Sanity` `Stripe` `Firebase`
 
 ---
 
 **📋 Task Management API**  
-Scalable NestJS backend with role-based access control, real-time WebSocket updates, and full Swagger documentation.  
-`NestJS` `TypeScript` `PostgreSQL` `WebSockets`
+Scalable NestJS backend with RBAC, WebSockets, and Swagger documentation.  
+`NestJS` `TypeScript` `PostgreSQL`
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 <a href="https://rahmoun-rayan-abderrahim.vercel.app/" target="_blank">
