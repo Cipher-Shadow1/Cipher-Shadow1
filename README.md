@@ -51,15 +51,25 @@ Fine-tuned transformer model for Arabic & English sentiment classification. Depl
 
 ### 🌐 Full Stack Projects
 
-**🛒 E-Commerce Platform**
-Full-stack app with JWT auth, product management, cart system, and Stripe payment integration. Clean REST API architecture with PostgreSQL.
-`Next.js` `Node.js` `PostgreSQL` `Stripe`
+**⚡ Nodus — AI Agent Workflow Platform**  
+Visual platform to design and manage AI-driven agent workflows with drag-and-drop builder, integrations (Slack, Notion, GitHub), and simulation sandbox. Built as a scalable SaaS with modern UI/UX and multi-page architecture.  
+🌐 <a href="https://ar-nodus.vercel.app/">Live Demo</a>  
+`Next.js` `React` `TailwindCSS` `Framer Motion` `MDX`
 
 ---
 
-**📋 Task Management API**
-Scalable NestJS backend with role-based access control, real-time WebSocket updates, and full Swagger documentation.
+
+**🛒 YouShop — Modern E-Commerce Platform**  
+Feature-rich e-commerce app with product management, cart, wishlist, authentication, and multi-payment integration (Stripe, Clerk, COD). Built with scalable architecture, CMS integration, and real-time user experience.  
+🔗 <a href="https://github.com/Cipher-Shadow1/youshop">View Project</a>  
+`Next.js` `TypeScript` `Sanity CMS` `Clerk` `Stripe` `Firebase`
+
+---
+
+**📋 Task Management API**  
+Scalable NestJS backend with role-based access control, real-time WebSocket updates, and full Swagger documentation.  
 `NestJS` `TypeScript` `PostgreSQL` `WebSockets`
+
 </td>
 </tr>
 </table>
