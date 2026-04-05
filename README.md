@@ -28,15 +28,23 @@
 
 ### 🤖 AI & Machine Learning
 
-**🧬 Disease Prediction Model**
-Supervised ML pipeline using scikit-learn with 94% accuracy on medical tabular data. Feature engineering, cross-validation, and model comparison (RF, XGBoost, SVM).
-`Python` `scikit-learn` `XGBoost` `Pandas`
+**🧠 SADOP — AI Database Optimization Platform**  
+Hybrid AI system combining Machine Learning (98.45% accuracy), Reinforcement Learning (PPO agent), and LLMs (Llama 3 via Groq) to automate SQL optimization and index recommendations. Features intelligent routing, query performance prediction, and natural language SQL generation with a full FastAPI backend and Next.js interface.  
+🔗 <a href="https://github.com/Cipher-Shadow1/sadop">View Project</a>  
+`Python` `FastAPI` `XGBoost` `Stable-Baselines3` `Gymnasium` `MySQL` `Groq API` `Next.js`
 
 ---
 
-**🔍 NLP Sentiment Analyzer**
-Fine-tuned transformer model for Arabic & English sentiment classification. Deployed as a REST API with Flask and tested on real social media data.
-`Python` `HuggingFace` `PyTorch` `Flask`
+**🧬 Kidney Disease Detection (CNN)**  
+Deep learning web application for classifying kidney CT scan images into 4 categories (Cyst, Normal, Stone, Tumor) using a custom CNN trained on 12,446 images. Achieved 100% test accuracy with real-time inference via Streamlit interface and probability-based predictions.  
+🔗 <a href="https://github.com/Cipher-Shadow1/Kidney-disease-detection">View Project</a>  
+`Python` `TensorFlow` `Keras` `Streamlit` `NumPy` `Pillow`
+
+---
+
+**🔍 NLP Sentiment Analyzer**  
+Fine-tuned transformer model for Arabic & English sentiment classification. Deployed as a REST API and tested on real social media data.  
+`Python` `HuggingFace` `PyTorch` `FastAPI`
 
 </td>
 <td align="center" width="50%">
