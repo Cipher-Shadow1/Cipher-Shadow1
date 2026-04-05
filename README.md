@@ -34,12 +34,6 @@ Supervised ML pipeline using scikit-learn with 94% accuracy on medical tabular d
 
 ---
 
-**📈 Stock Price Forecasting**
-Time-series prediction using LSTM neural networks on historical financial data. Includes data normalization, windowing, and performance visualization.
-`Python` `TensorFlow` `LSTM` `Matplotlib`
-
----
-
 **🔍 NLP Sentiment Analyzer**
 Fine-tuned transformer model for Arabic & English sentiment classification. Deployed as a REST API with Flask and tested on real social media data.
 `Python` `HuggingFace` `PyTorch` `Flask`
@@ -58,13 +52,6 @@ Full-stack app with JWT auth, product management, cart system, and Stripe paymen
 **📋 Task Management API**
 Scalable NestJS backend with role-based access control, real-time WebSocket updates, and full Swagger documentation.
 `NestJS` `TypeScript` `PostgreSQL` `WebSockets`
-
----
-
-**📊 Data Dashboard**
-Interactive analytics dashboard visualizing real datasets with dynamic charts, filters, and export features.
-`React` `TypeScript` `Recharts` `Node.js`
-
 </td>
 </tr>
 </table>
