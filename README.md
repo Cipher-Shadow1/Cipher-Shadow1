@@ -1,6 +1,6 @@
 <!-- 🌐 Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there%20%F0%9F%91%8B,%20I%27m%20Rahmoun%20Rayan%20Abderrahim&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20%26%20AI%20Engineer%20from%20Algeria%0A%20&fontAlign=50&animation=fadeIn&rotate=0&fontSize=37&textBg=false&descAlignY=54&fontAlignY=37" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there%20%F0%9F%91%8B,%20I%27m%20Rahmoun%20Rayan%20Abderrahim&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20%26%20AI%20Engineer%20from%20Algeria%0A%20&fontAlign=50&animation=fadeIn&rotate=0&fontSize=37&textBg=false&descAlignY=54&fontAlignY=37](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rahmoun%20rayan%20abderrahim&fontSize=50&desc=Full%20Stack%20Developer%20|%20AI%20Engineer)" />
 </div>
 
 <br/>
@@ -51,87 +51,79 @@ With over <strong>4 years of experience</strong> in full-stack development and m
 <!-- 🗂️ PORTFOLIO SECTION -->
 <h2 align="center">🗂️ My Portfolio</h2>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
+---
 
 ### 🤖 AI & Machine Learning
 
-**🧠 SADOP — AI Database Optimization Platform**
-Hybrid AI system combining ML (98.45%), RL (PPO), and LLMs (Llama 3) for SQL optimization, index recommendations, and query performance prediction.
-🔗 <a href="https://github.com/Cipher-Shadow1/sadop">View Project</a>
-`Python` `FastAPI` `XGBoost` `RL` `MySQL` `Next.js`
-
----
-
-**🧬 Kidney Disease Detection (CNN)**
-Deep learning web app classifying kidney CT scans into 4 classes using a custom CNN trained on 12K+ images with real-time inference.
-🔗 <a href="https://github.com/Cipher-Shadow1/Kidney-disease-detection">View Project</a>
-`Python` `TensorFlow` `Keras` `Streamlit`
-
----
-
-**🔍 NLP Sentiment Analyzer**
-Fine-tuned transformer for Arabic & English sentiment classification deployed as a REST API.
-`Python` `HuggingFace` `PyTorch` `FastAPI`
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 Full Stack Projects
-
-**🛒 DzShop — Multi-Vendor E-Commerce Store**
-Full-featured multi-vendor ecommerce platform with product management, cart, and scalable architecture.
-🌐 <a href="https://dzshopy.vercel.app/">Live Demo</a>
-`Next.js` `Tailwind CSS` `eCommerce`
-
----
-
-**📦 MansaStock — Inventory Management System**
-Dashboard-based inventory and stock management system built for real-world business use.
-🌐 <a href="https://ar-mansa.vercel.app/">Live Demo</a> &nbsp;|&nbsp; 🔗 <a href="https://github.com/Cipher-Shadow1/mansaStock">GitHub</a>
-`React` `Dashboard` `Management`
-
----
-
-**⚡ Nodus — SaaS Landing Page**
-Visual SaaS landing page for an AI-driven workflow platform with premium design and smooth animations.
-🌐 <a href="https://ar-nodus.vercel.app/">Live Demo</a>
-`Next.js` `Landing Page` `SaaS`
-
----
-
-**🛍️ Mirova — E-Commerce Store**
-Modern e-commerce storefront with Stripe payments and clean React architecture.
-🌐 <a href="https://ar-mirova.vercel.app/">Live Demo</a> &nbsp;|&nbsp; 🔗 <a href="https://github.com/Cipher-Shadow1/mirova">GitHub</a>
-`React` `Stripe` `eCommerce`
-
----
-
-**🏪 DzMall — Trusted Online Shopping Destination**
-Multi-vendor marketplace with full shopping experience.
-🌐 <a href="https://dz-mall.vercel.app/">Live Demo</a>
-`React` `eCommerce` `Multi-Vendor`
-
----
-
-**📚 E-Learning Platform**
-Video-based learning platform with course management and modern UX.
-🌐 <a href="https://e-learning-rosy-one.vercel.app/">Live Demo</a>
-`Next.js` `Education` `Video`
-
-</td>
-</tr>
-</table>
+> **🧠 SADOP — AI Database Optimization Platform**
+> Hybrid AI system combining ML (98.45%), RL (PPO), and LLMs (Llama 3) for SQL optimization, index recommendations, and query performance prediction.
+> &nbsp;
+> 🔗 [View Project](https://github.com/Cipher-Shadow1/sadop) &nbsp;·&nbsp; `Python` `FastAPI` `XGBoost` `RL` `MySQL` `Next.js`
 
 <br/>
 
+> **🧬 Kidney Disease Detection (CNN)**
+> Deep learning web app classifying kidney CT scans into 4 classes using a custom CNN trained on 12K+ images with real-time inference.
+> &nbsp;
+> 🔗 [View Project](https://github.com/Cipher-Shadow1/Kidney-disease-detection) &nbsp;·&nbsp; `Python` `TensorFlow` `Keras` `Streamlit`
+
+<br/>
+
+> **🔍 NLP Sentiment Analyzer**
+> Fine-tuned transformer for Arabic & English sentiment classification deployed as a REST API.
+> &nbsp;
+> `Python` `HuggingFace` `PyTorch` `FastAPI`
+
+---
+
+### 🌐 Full Stack Projects
+
+> **🛒 DzShop — Multi-Vendor E-Commerce Store**
+> Full-featured multi-vendor ecommerce platform with product management, cart, and scalable architecture.
+> &nbsp;
+> 🌐 [Live Demo](https://dzshopy.vercel.app/) &nbsp;·&nbsp; `Next.js` `Tailwind CSS` `eCommerce`
+
+<br/>
+
+> **📦 MansaStock — Inventory Management System**
+> Dashboard-based inventory and stock management system built for real-world business use.
+> &nbsp;
+> 🌐 [Live Demo](https://ar-mansa.vercel.app/) &nbsp;·&nbsp; 🔗 [GitHub](https://github.com/Cipher-Shadow1/mansaStock) &nbsp;·&nbsp; `React` `Dashboard` `Management`
+
+<br/>
+
+> **⚡ Nodus — SaaS Landing Page**
+> Visual SaaS landing page for an AI-driven workflow platform with premium design and smooth animations.
+> &nbsp;
+> 🌐 [Live Demo](https://ar-nodus.vercel.app/) &nbsp;·&nbsp; `Next.js` `Landing Page` `SaaS`
+
+<br/>
+
+> **🛍️ Mirova — E-Commerce Store**
+> Modern e-commerce storefront with Stripe payments and clean React architecture.
+> &nbsp;
+> 🌐 [Live Demo](https://ar-mirova.vercel.app/) &nbsp;·&nbsp; 🔗 [GitHub](https://github.com/Cipher-Shadow1/mirova) &nbsp;·&nbsp; `React` `Stripe` `eCommerce`
+
+<br/>
+
+> **🏪 DzMall — Trusted Online Shopping Destination**
+> Multi-vendor marketplace with full shopping experience.
+> &nbsp;
+> 🌐 [Live Demo](https://dz-mall.vercel.app/) &nbsp;·&nbsp; `React` `eCommerce` `Multi-Vendor`
+
+<br/>
+
+> **📚 E-Learning Platform**
+> Video-based learning platform with course management and modern UX.
+> &nbsp;
+> 🌐 [Live Demo](https://e-learning-rosy-one.vercel.app/) &nbsp;·&nbsp; `Next.js` `Education` `Video`
+
+---
+
+<div align="center">
 <a href="https://rahmoun-abderrahim.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=View+Full+Portfolio&logo=About.me&color=E6517D&logoColor=white&style=for-the-badge&label=" height="40"/>
 </a>
-
 </div>
 
 <br/>
