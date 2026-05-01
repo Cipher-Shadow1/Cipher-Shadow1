@@ -1,6 +1,6 @@
 <!-- 🌐 Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5433FF,50:20BDFF,100:A5FECB&text=Rahmoun%20rayan%20abderrahim&desc=desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlign=50&descAlignY=62&fontAlignY=41&fontSize=50&fontColor=f7f5f5&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5433FF,50:20BDFF,100:A5FECB&text=Rahmoun%20rayan%20abderrahim&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlign=50&descAlignY=62&fontAlignY=41&fontSize=50&fontColor=f7f5f5&textBg=false" />
 </div>
 
 <br/>
