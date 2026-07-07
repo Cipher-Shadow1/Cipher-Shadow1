@@ -35,8 +35,7 @@ With over <strong>4 years of experience</strong> in full-stack development and m
 
 | Company | Role | Period |
 |---|---|---|
-| 🏢 [Vagay](https://www.vagay.com) | Full Stack Developer Intern | 2025 – Present |
-| 🚀 [Codevas](https://www.codevas.com) | Founder | 2025 – Present |
+| 🏢 [Vagay](https://www.vagay.com) | Full Stack Developer Intern | 2025 – 2026 |
 | 🌍 [Upwork](https://www.upwork.com) | Full Stack & AI Integration Freelancer | 2025 – Present |
 | 🌐 [Freelancer.com](https://www.freelancer.com) | Full Stack Developer | 2025 – Present |
 | 🏭 [Sonatrach IAP](https://www.sonatrach.com) | Full Stack Developer Intern | 2024 |
